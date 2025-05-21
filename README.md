@@ -12,6 +12,7 @@ This repository contains the content and exercises for **Week 1** of the Java le
   - [Day 5: Strings](#day-5-strings)
   - [Day 6: Functions (Methods)](#day-6-functions-methods)
 - [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
 
 ## Overview
 
@@ -68,3 +69,12 @@ Before starting with this week’s content, ensure the following are set up:
 - Java Development Kit (JDK) installed and configured
 - A code editor or IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code
 
+## How to Use This Repository
+
+This repository is organized into folders corresponding to each day of the week. Each folder may contain sample code, notes, and exercises relevant to that day's topic. You are encouraged to:
+
+- Explore the code examples to understand how each concept is implemented
+- Run and modify the code to reinforce learning
+- Review notes or documentation provided alongside the examples
+
+This structure is intended to support both structured learning and hands-on practice.
