@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Java_Programming_Elements/01-Java_Programming_Elements.iml" filepath="$PROJECT_DIR$/01-Java_Programming_Elements/01-Java_Programming_Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Java_Control_Flows/02-Java_Control_Flows.iml" filepath="$PROJECT_DIR$/02-Java_Control_Flows/02-Java_Control_Flows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Java_Arrays/03-Java_Arrays.iml" filepath="$PROJECT_DIR$/03-Java_Arrays/03-Java_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Java_Methods/04-Java_Methods.iml" filepath="$PROJECT_DIR$/04-Java_Methods/04-Java_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Java_String/05-Java_String.iml" filepath="$PROJECT_DIR$/05-Java_String/05-Java_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Extras/Extras.iml" filepath="$PROJECT_DIR$/Extras/Extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week_1.iml" filepath="$PROJECT_DIR$/week_1.iml" />
+    </modules>
+  </component>
+</project>
